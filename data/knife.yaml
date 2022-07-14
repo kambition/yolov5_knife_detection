@@ -1,0 +1,6 @@
+train: C:\Users\12411\Desktop\yolov5\VOCdata\dataSet_path\train.txt
+val: C:\Users\12411\Desktop\yolov5\VOCdata\dataSet_path\val.txt
+
+nc: 1
+
+names: ["knife"]
